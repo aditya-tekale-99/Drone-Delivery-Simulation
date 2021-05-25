@@ -2,7 +2,7 @@
 *
 * <h1> Iteration One </h1>
 *
-* This file is the index for Shane Vadnais' final submission for iteration one of CSCI3081W
+* This file is the index for final submission of iteration one of CSCI3081W
 * Program Design and Development
 *
 * <h2>Iteration One UML </h2>
@@ -12,7 +12,7 @@
 * <h2> Tutoring a New User On Usage of My Code </h2>
 *
 * In this section, we will run through ways of obtaining my code from the repo I have supplied. I would recommend
-* that you begin by finding some way to access the repo by cloning from https://github.umn.edu/umn-csci-3081-s21/repo-vadna034. 
+* that you begin by finding some way to access the repo by cloning. 
 * If a user is on a local machine, they should install docker following the tutorial given in our first lab, build the 
 * environment running the script bin/build-env.sh, then the command bin/run-env.sh to enter the docker container.
 * In order to get this code running on a cse-labs machine (or a machine which followed the previous steps of downloading
@@ -42,12 +42,6 @@
 * created. If a user wants versatility, and to be able to test different details with the factory, it can 
 * become hard to do. 
 * 
-* <h2> A Note On Extra Credit </h2>
-*
-* I believe that my code would suffice for the extra credit. It does not actually test for collision detection with other
-* drones, but apart from that small piece of logic, it is currently working to accept multiple packages. If that is
-* sufficient for the extra credit, please test my code against whatever test-cases are in the extra-credit. 
-*
 * <h1> Iteration Two </h1>
 *
 * Group 11: Shane Vadnais, Reka Leeaphon, Aditya Tekale, Muntaqim Mehtaz
@@ -111,10 +105,6 @@
 * obstacles faced in the completion of the respective tasks. We took up different roles and assigned ourselves 
 * each priorities to work on.
 *
-* Roles: \n Development Lead: Reka Leeaphon (leeap001) \n Scheduler: Aditya Tekale (tekal005) \n Reporter: Muntaqim Mehtaz (mehta216) \n Project Manager: Shane Vadnais (vadna034)
-*
-* Priority 1 was worked on by Reka Leeaphon, \n Priority 2 was worked on by Shane Vadnais, \n Priority 3 was worked on by Muntaqim Mehtaz and \n Priority 4 was worked on by Aditya Tekale.
-* 
 * The second meeting was held on the 31st of March at 8PM CST, where the team members checked in on the progress 
 * being made on the obsever pattern and the google tests, there was a significant amount of progress 
 * made and we decided to meet up again on 1st April to push the work done on the devel branch.
@@ -202,9 +192,4 @@
 *
 * Fourth meeting was held on 29th of April at 10AM, in this meeting we checked up on the progress we've made so far.
 *
-* Each team member has been assigned a task while working on this iteration; \n
-* Shane Vadnais: Assigned to work on writing the code for the new feature \n
-* Muntaqim Mehtaz: Assigned to work on UML diagram and office hours to get questions answered \n
-* Aditya Tekale: Assigned to work on documenting whatever is needed \n
-* Reka leeaphon: Assigned to work on updating the google tests.
 */
