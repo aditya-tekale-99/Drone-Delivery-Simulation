@@ -1,0 +1,9 @@
+.DS_Store
+.dependencies
+.vscode
+.idea
+/docs/html/*
+/docs/latex/*
+Exercises
+
+project/tests/template.cc
