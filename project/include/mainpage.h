@@ -1,5 +1,6 @@
 /*! \mainpage CSCI 3081 Delivery Simulation project
 *
+*
 * <h1> Iteration One </h1>
 *
 * This file is the index for final submission of iteration one of CSCI3081W
@@ -11,14 +12,13 @@
 *
 * <h2> Tutoring a New User On Usage of My Code </h2>
 *
-* In this section, we will run through ways of obtaining my code from the repo I have supplied. I would recommend
-* that you begin by finding some way to access the repo by cloning. 
+* In this section, we will run through ways of obtaining the code from the repo. Begin by cloning the repo. 
 * If a user is on a local machine, they should install docker following the tutorial given in our first lab, build the 
 * environment running the script bin/build-env.sh, then the command bin/run-env.sh to enter the docker container.
 * In order to get this code running on a cse-labs machine (or a machine which followed the previous steps of downloading
 * and configuring Docker), change directories into project, and run the command make. 
 * After makefile has finished executing, an executable should exist. To run this executable, use the run script residing
-* at location project/bin/run.sh. To create my tests, run the command make test. After compilation, execute the shell script
+* at location project/bin/run.sh. To create the tests, run the command make test. After compilation, execute the shell script
 * at location project/bin/test.sh. 
 *
 * <h2> A Quick Discussion On Factories </h2>
