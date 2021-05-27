@@ -1,2 +1,2 @@
 # Drone Delivery Simulation
-Repo for the project
+The coding for the entities (Drone, Robot, Package and Customer) was done in C++
